@@ -1,0 +1,71 @@
+{
+  "GuideData": {
+
+
+    "AdsController": 
+      {
+        "ironsourcekey":"142e50eb1",
+	"admobkey":"ca-app-pub-9959669477236869~6758100991",
+	  "admobinter":"ca-app-pub-9959669477236869/5508243286",
+	      "admobnative":"ca-app-pub-9959669477236869/8672929842"
+	     
+      }
+    ,
+
+    "items": [
+      {
+        "title": "vlad and niki 12 Locks",
+        "image": "https://ghanmi1.github.io/Guidejson/12clocks.jpg",
+		
+        "color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+        "link_title": "vlad and niki 12 Locks",
+        "setLink": "",
+        "image_link": "",
+        "text": "Vlad and Niki like to have fun. The boys never stay put, so they get into all sorts of adventures. This time they wanted biscuits, but the jar was locked... and not just locked, but locked with 12 padlocks. Features 1-Plasticine style graphics 2-Fun music 3-Different quest rooms with lots of puzzles 4-Mini-games in which the brothers have to race cars, fly planes and go into space in superhero costumes",
+        "isNative": false
+		
+      },
+      {
+        "title": "vlad and niki fun kids ",
+        "image": "https://ghanmi1.github.io/Guidejson/funkids.png",
+        "color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "Vlad and Nikki is a free official app with funny boys on the popular YouTube channel Vlad and Nikki.Watch video tutorial and complete easy game puzzles!.The Vlad and Nikki app is safe for the brains of older children than young children and an indispensable assistant for busy parents. The free app is ideal for preschool-aged boys and girls.",
+        "isNative": false
+      },
+      {
+        "title": "Vlad and Niki - Smart Games",
+        "image": "https://ghanmi1.github.io/Guidejson/smart.jpg",
+	"color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "Have fun with Vlad and Niki while stimulating your intelligence! More than 20 educational games to help the cognitive development of the little ones. Join in the fun with the most famous brothers! With this application you can have fun while stimulating skills such as memory, attention or logical reasoning. Your favourite characters are waiting for you to join the learning adventure! Will you be able to solve all the levels of the game? . INTELLIGENCE 1-GAMES Memorize sequences and elements 2-Classify objects by shape and colour.3-Visual acuity games.4-Practice hand-eye coordination . 5-Matching words and colours . 6-Classic games such as maze or dominoes . 7-Logical reasoning puzzles . 8-Adding numbers . FEATURES1-Official Vlad & Niki application.2-Classic and fun games to stimulate the brain.3-Different levels of difficulty.4-Simple and intuitive interface.5-Fun drawings and animations.6-Original sounds and voices of Vlad and Nikita.7-Stimulates creativity and flexible thinking.8-Completely free to play. ABOUT VLAD & NIKI .Vlad and Niki are two brothers known for their videos about toys and stories from everyday life. They have become one of the most important influencers among children, with millions of subscribers in countries around the world. In these games, you'll find your favourite characters to encourage you to solve the puzzles and intelligence challenges they offer. Have fun with them while stimulating your brain!",
+        "isNative": false
+      },
+      {
+        "title": "vlad and niki Supermarket game",
+        "image": "https://ghanmi1.github.io/Guidejson/supermarche.jpg",
+	"color": "#FF000000",
+        "text_size": "20",
+        "isLink": false,
+	"link_title": "",
+	"setLink": "",
+        "image_link": "",
+        "text": "Do you like videos with Vlad & Nikita? Do you want to play with your favorite youtubers? Let's go to the huge fun supermarket! This is a new official educational shopping game from popular video bloggers for boys Vlad and Nikita . Let's go shopping at the grocery store, the building market, the houseware shop and the toy shop. Exciting adventures and fun games for kids!",
+        "isNative": false
+      }
+     
+      
+    ]
+
+  }
+}
